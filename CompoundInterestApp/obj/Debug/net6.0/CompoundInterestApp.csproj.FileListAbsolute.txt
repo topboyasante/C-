@@ -1,0 +1,15 @@
+C:\Users\asant\Desktop\CompoundInterestApp\bin\Debug\net6.0\CompoundInterestApp.exe
+C:\Users\asant\Desktop\CompoundInterestApp\bin\Debug\net6.0\CompoundInterestApp.deps.json
+C:\Users\asant\Desktop\CompoundInterestApp\bin\Debug\net6.0\CompoundInterestApp.runtimeconfig.json
+C:\Users\asant\Desktop\CompoundInterestApp\bin\Debug\net6.0\CompoundInterestApp.dll
+C:\Users\asant\Desktop\CompoundInterestApp\bin\Debug\net6.0\ref\CompoundInterestApp.dll
+C:\Users\asant\Desktop\CompoundInterestApp\bin\Debug\net6.0\CompoundInterestApp.pdb
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.csproj.AssemblyReference.cache
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.AssemblyInfoInputs.cache
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.AssemblyInfo.cs
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.csproj.CoreCompileInputs.cache
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.dll
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\ref\CompoundInterestApp.dll
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.pdb
+C:\Users\asant\Desktop\CompoundInterestApp\obj\Debug\net6.0\CompoundInterestApp.genruntimeconfig.cache
